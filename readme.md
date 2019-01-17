@@ -3,6 +3,6 @@ Have a good time!
 
 MODIFIED IN 'master' BRANCH!
 
-We are going to record some git commands here, update again!
+git_learning(dreamstep36) are going to record some git commands here, update again!
 
 
